@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/e32bda58-fd25-4809-a031-dd66f2b7b81c)
+
+
 # FiveM Discord Hour Logger
 
 A simple FiveM script for tracking duty hours across multiple departments with Discord webhook integration.
